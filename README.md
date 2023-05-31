@@ -18,6 +18,6 @@ $ pyinstaller --onefile --windowed --icon=icon.ico jaws_analysis.py
 
 $ pyinstaller jaws_analysis.spec
 
-5) ta-da! it works ;)
+5) Ta-da! It works and you can test it using dicom images from data_test folder. Just browse inside this folder and push Analyze button.
 
 P.S. Tested on Linux (WSL2 Ubuntu 22.04) and Windows 11 (Home 22H2).
